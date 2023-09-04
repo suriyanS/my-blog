@@ -7,7 +7,6 @@ const CommentsList = ({ comments }) => (
         <p>{comment.comment}</p>
       </div>
     ))}
-    ;
   </>
 );
 
